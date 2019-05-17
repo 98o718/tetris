@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  align-items: center;
+  background-color: #3f51b5;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+h1 {
+  margin: 15px;
+}
+
+#tetris {
+  border: outset 0.2em #fff;
+  height: 50vh;
+}
